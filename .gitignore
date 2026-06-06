@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Streamlit
+.streamlit/
+*.port
+
+# IDEs
+.vscode/
+.idea/
+
+# Local data files (pipeline outputs)
+data/raw/*.csv
+data/processed/*.csv
+data/processed/*.xlsx
+data/database/*.db
+data/database/*.sqlite

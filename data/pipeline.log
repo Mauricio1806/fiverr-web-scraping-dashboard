@@ -1,0 +1,200 @@
+[2026-06-06 17:45:20] INFO [Scraper.scrape_books:61] - Starting scraper. Limit: 30 books. Delay: 0.5s.
+[2026-06-06 17:45:20] INFO [Scraper.scrape_books:69] - Scraping list page: https://books.toscrape.com/catalogue/page-1.html
+[2026-06-06 17:45:20] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/page-1.html
+[2026-06-06 17:45:22] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+[2026-06-06 17:45:22] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+[2026-06-06 17:45:22] INFO [Scraper.scrape_books:125] - Successfully scraped book [1]: 'A Light in the Attic'
+[2026-06-06 17:45:22] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+[2026-06-06 17:45:22] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+[2026-06-06 17:45:22] INFO [Scraper.scrape_books:125] - Successfully scraped book [2]: 'Tipping the Velvet'
+[2026-06-06 17:45:22] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/soumission_998/index.html
+[2026-06-06 17:45:23] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/soumission_998/index.html
+[2026-06-06 17:45:23] INFO [Scraper.scrape_books:125] - Successfully scraped book [3]: 'Soumission'
+[2026-06-06 17:45:23] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+[2026-06-06 17:45:23] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+[2026-06-06 17:45:24] INFO [Scraper.scrape_books:125] - Successfully scraped book [4]: 'Sharp Objects'
+[2026-06-06 17:45:24] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+[2026-06-06 17:45:24] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+[2026-06-06 17:45:24] INFO [Scraper.scrape_books:125] - Successfully scraped book [5]: 'Sapiens: A Brief History of Humankind'
+[2026-06-06 17:45:24] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+[2026-06-06 17:45:24] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+[2026-06-06 17:45:25] INFO [Scraper.scrape_books:125] - Successfully scraped book [6]: 'The Requiem Red'
+[2026-06-06 17:45:25] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+[2026-06-06 17:45:25] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+[2026-06-06 17:45:25] INFO [Scraper.scrape_books:125] - Successfully scraped book [7]: 'The Dirty Little Secrets of Getting Your Dream Job'
+[2026-06-06 17:45:25] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+[2026-06-06 17:45:25] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+[2026-06-06 17:45:25] INFO [Scraper.scrape_books:125] - Successfully scraped book [8]: 'The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull'
+[2026-06-06 17:45:25] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+[2026-06-06 17:45:26] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+[2026-06-06 17:45:26] INFO [Scraper.scrape_books:125] - Successfully scraped book [9]: 'The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics'
+[2026-06-06 17:45:26] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+[2026-06-06 17:45:26] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+[2026-06-06 17:45:27] INFO [Scraper.scrape_books:125] - Successfully scraped book [10]: 'The Black Maria'
+[2026-06-06 17:45:27] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html
+[2026-06-06 17:45:27] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html
+[2026-06-06 17:45:27] INFO [Scraper.scrape_books:125] - Successfully scraped book [11]: 'Starving Hearts (Triangular Trade Trilogy, #1)'
+[2026-06-06 17:45:27] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html
+[2026-06-06 17:45:27] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html
+[2026-06-06 17:45:28] INFO [Scraper.scrape_books:125] - Successfully scraped book [12]: 'Shakespeare's Sonnets'
+[2026-06-06 17:45:28] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/set-me-free_988/index.html
+[2026-06-06 17:45:28] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/set-me-free_988/index.html
+[2026-06-06 17:45:28] INFO [Scraper.scrape_books:125] - Successfully scraped book [13]: 'Set Me Free'
+[2026-06-06 17:45:28] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html
+[2026-06-06 17:45:28] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html
+[2026-06-06 17:45:28] INFO [Scraper.scrape_books:125] - Successfully scraped book [14]: 'Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)'
+[2026-06-06 17:45:28] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html
+[2026-06-06 17:45:29] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html
+[2026-06-06 17:45:29] INFO [Scraper.scrape_books:125] - Successfully scraped book [15]: 'Rip it Up and Start Again'
+[2026-06-06 17:45:29] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html
+[2026-06-06 17:45:29] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html
+[2026-06-06 17:45:30] INFO [Scraper.scrape_books:125] - Successfully scraped book [16]: 'Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991'
+[2026-06-06 17:45:30] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/olio_984/index.html
+[2026-06-06 17:45:30] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/olio_984/index.html
+[2026-06-06 17:45:30] INFO [Scraper.scrape_books:125] - Successfully scraped book [17]: 'Olio'
+[2026-06-06 17:45:30] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html
+[2026-06-06 17:45:30] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html
+[2026-06-06 17:45:31] INFO [Scraper.scrape_books:125] - Successfully scraped book [18]: 'Mesaerion: The Best Science Fiction Stories 1800-1849'
+[2026-06-06 17:45:31] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html
+[2026-06-06 17:45:31] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html
+[2026-06-06 17:45:31] INFO [Scraper.scrape_books:125] - Successfully scraped book [19]: 'Libertarianism for Beginners'
+[2026-06-06 17:45:31] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html
+[2026-06-06 17:45:31] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html
+[2026-06-06 17:45:32] INFO [Scraper.scrape_books:125] - Successfully scraped book [20]: 'It's Only the Himalayas'
+[2026-06-06 17:45:32] INFO [Scraper.scrape_books:69] - Scraping list page: https://books.toscrape.com/catalogue/page-2.html
+[2026-06-06 17:45:32] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/page-2.html
+[2026-06-06 17:45:32] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/in-her-wake_980/index.html
+[2026-06-06 17:45:32] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/in-her-wake_980/index.html
+[2026-06-06 17:45:33] INFO [Scraper.scrape_books:125] - Successfully scraped book [21]: 'In Her Wake'
+[2026-06-06 17:45:33] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/how-music-works_979/index.html
+[2026-06-06 17:45:33] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/how-music-works_979/index.html
+[2026-06-06 17:45:33] INFO [Scraper.scrape_books:125] - Successfully scraped book [22]: 'How Music Works'
+[2026-06-06 17:45:33] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html
+[2026-06-06 17:45:33] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html
+[2026-06-06 17:45:33] INFO [Scraper.scrape_books:125] - Successfully scraped book [23]: 'Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More'
+[2026-06-06 17:45:33] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html
+[2026-06-06 17:45:34] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html
+[2026-06-06 17:45:34] INFO [Scraper.scrape_books:125] - Successfully scraped book [24]: 'Chase Me (Paris Nights #2)'
+[2026-06-06 17:45:34] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/black-dust_976/index.html
+[2026-06-06 17:45:34] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/black-dust_976/index.html
+[2026-06-06 17:45:34] INFO [Scraper.scrape_books:125] - Successfully scraped book [25]: 'Black Dust'
+[2026-06-06 17:45:34] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html
+[2026-06-06 17:45:35] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html
+[2026-06-06 17:45:35] INFO [Scraper.scrape_books:125] - Successfully scraped book [26]: 'Birdsong: A Story in Pictures'
+[2026-06-06 17:45:35] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html
+[2026-06-06 17:45:35] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html
+[2026-06-06 17:45:36] INFO [Scraper.scrape_books:125] - Successfully scraped book [27]: 'America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana'
+[2026-06-06 17:45:36] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html
+[2026-06-06 17:45:36] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html
+[2026-06-06 17:45:36] INFO [Scraper.scrape_books:125] - Successfully scraped book [28]: 'Aladdin and His Wonderful Lamp'
+[2026-06-06 17:45:36] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html
+[2026-06-06 17:45:36] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html
+[2026-06-06 17:45:37] INFO [Scraper.scrape_books:125] - Successfully scraped book [29]: 'Worlds Elsewhere: Journeys Around Shakespeare’s Globe'
+[2026-06-06 17:45:37] INFO [Scraper.parse_book_detail:17] - Scraping detail page: https://books.toscrape.com/catalogue/wall-and-piece_971/index.html
+[2026-06-06 17:45:37] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/wall-and-piece_971/index.html
+[2026-06-06 17:45:37] INFO [Scraper.scrape_books:125] - Successfully scraped book [30]: 'Wall and Piece'
+[2026-06-06 17:45:37] INFO [Scraper.main:162] - Successfully scraped 30 books and saved raw data to C:\Users\mauri\Videos\data-engineering-workspace.code-workspace\jersey-scraper\fiverr-web-scraping-dashboard\data/raw/books_raw.csv
+[2026-06-06 17:46:02] INFO [Transformer.transform_data:63] - Loading raw data from: C:\Users\mauri\Videos\data-engineering-workspace.code-workspace\jersey-scraper\fiverr-web-scraping-dashboard\data/raw/books_raw.csv
+[2026-06-06 17:46:02] INFO [Transformer.transform_data:72] - Raw record count: 30
+[2026-06-06 17:46:02] INFO [Transformer.transform_data:91] - Deduplicated by SKU. Removed 0 duplicate rows.
+[2026-06-06 17:46:02] INFO [Transformer.transform_data:125] - Transformation complete. Transformed record count: 30
+[2026-06-06 17:46:02] INFO [Transformer.main:149] - Saved cleaned CSV to: C:\Users\mauri\Videos\data-engineering-workspace.code-workspace\jersey-scraper\fiverr-web-scraping-dashboard\data/processed/books_clean.csv
+[2026-06-06 17:46:02] INFO [Transformer.main:153] - Saved cleaned Excel to: C:\Users\mauri\Videos\data-engineering-workspace.code-workspace\jersey-scraper\fiverr-web-scraping-dashboard\data/processed/books_clean.xlsx
+[2026-06-06 17:46:16] INFO [Database.load_data_to_db:47] - Loading cleaned data from C:\Users\mauri\Videos\data-engineering-workspace.code-workspace\jersey-scraper\fiverr-web-scraping-dashboard\data/processed/books_clean.csv to DB C:\Users\mauri\Videos\data-engineering-workspace.code-workspace\jersey-scraper\fiverr-web-scraping-dashboard\data/database/books.db
+[2026-06-06 17:46:16] INFO [Database.init_database:17] - Initializing database at: C:\Users\mauri\Videos\data-engineering-workspace.code-workspace\jersey-scraper\fiverr-web-scraping-dashboard\data/database/books.db
+[2026-06-06 17:46:16] INFO [Database.init_database:40] - Database initialized successfully.
+[2026-06-06 17:46:16] INFO [Database.load_data_to_db:88] - Successfully loaded 30 records into the 'books' table.
+[2026-06-06 17:46:16] INFO [Database.load_data_to_db:93] - Verification: 'books' table now contains 30 total records.
+[2026-06-06 17:46:16] INFO [Database.query_db_summary:106] - Running database check on: C:\Users\mauri\Videos\data-engineering-workspace.code-workspace\jersey-scraper\fiverr-web-scraping-dashboard\data/database/books.db
+[2026-06-06 17:46:16] INFO [Database.query_db_summary:124] - 
+Top 5 Categories in Database by Volume:
+   category  book_count  avg_price  avg_rating
+    Default           5      26.03        3.00
+     Poetry           4      37.12        2.25
+      Music           3      43.20        3.33
+Young Adult           2      20.05        3.00
+    Romance           2      29.90        5.00
+[2026-06-06 17:49:16] INFO [Scraper.scrape_books:66] - Starting scraper. Limit: 20 books. Delay: 0.5s.
+[2026-06-06 17:49:16] INFO [Scraper.scrape_books:74] - Scraping list page: https://books.toscrape.com/catalogue/page-1.html
+[2026-06-06 17:49:16] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/page-1.html
+[2026-06-06 17:49:17] INFO [Scraper.parse_book_detail:22] - Scraping detail page: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+[2026-06-06 17:49:17] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+[2026-06-06 17:49:17] INFO [Scraper.scrape_books:139] - Successfully scraped book [1]: 'A Light in the Attic'
+[2026-06-06 17:49:17] INFO [Scraper.parse_book_detail:22] - Scraping detail page: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+[2026-06-06 17:49:18] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+[2026-06-06 17:49:18] INFO [Scraper.scrape_books:139] - Successfully scraped book [2]: 'Tipping the Velvet'
+[2026-06-06 17:49:18] INFO [Scraper.parse_book_detail:22] - Scraping detail page: https://books.toscrape.com/catalogue/soumission_998/index.html
+[2026-06-06 17:49:18] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/soumission_998/index.html
+[2026-06-06 17:49:19] INFO [Scraper.scrape_books:139] - Successfully scraped book [3]: 'Soumission'
+[2026-06-06 17:49:19] INFO [Scraper.parse_book_detail:22] - Scraping detail page: https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+[2026-06-06 17:49:19] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+[2026-06-06 17:49:19] INFO [Scraper.scrape_books:139] - Successfully scraped book [4]: 'Sharp Objects'
+[2026-06-06 17:49:19] INFO [Scraper.parse_book_detail:22] - Scraping detail page: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+[2026-06-06 17:49:19] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+[2026-06-06 17:49:20] INFO [Scraper.scrape_books:139] - Successfully scraped book [5]: 'Sapiens: A Brief History of Humankind'
+[2026-06-06 17:49:20] INFO [Scraper.parse_book_detail:22] - Scraping detail page: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+[2026-06-06 17:49:20] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+[2026-06-06 17:49:20] INFO [Scraper.scrape_books:139] - Successfully scraped book [6]: 'The Requiem Red'
+[2026-06-06 17:49:20] INFO [Scraper.parse_book_detail:22] - Scraping detail page: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+[2026-06-06 17:49:20] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+[2026-06-06 17:49:21] INFO [Scraper.scrape_books:139] - Successfully scraped book [7]: 'The Dirty Little Secrets of Getting Your Dream Job'
+[2026-06-06 17:49:21] INFO [Scraper.parse_book_detail:22] - Scraping detail page: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+[2026-06-06 17:49:21] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+[2026-06-06 17:49:21] INFO [Scraper.scrape_books:139] - Successfully scraped book [8]: 'The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull'
+[2026-06-06 17:49:21] INFO [Scraper.parse_book_detail:22] - Scraping detail page: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+[2026-06-06 17:49:21] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+[2026-06-06 17:49:22] INFO [Scraper.scrape_books:139] - Successfully scraped book [9]: 'The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics'
+[2026-06-06 17:49:22] INFO [Scraper.parse_book_detail:22] - Scraping detail page: https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+[2026-06-06 17:49:22] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+[2026-06-06 17:49:22] INFO [Scraper.scrape_books:139] - Successfully scraped book [10]: 'The Black Maria'
+[2026-06-06 17:49:22] INFO [Scraper.parse_book_detail:22] - Scraping detail page: https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html
+[2026-06-06 17:49:22] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html
+[2026-06-06 17:49:23] INFO [Scraper.scrape_books:139] - Successfully scraped book [11]: 'Starving Hearts (Triangular Trade Trilogy, #1)'
+[2026-06-06 17:49:23] INFO [Scraper.parse_book_detail:22] - Scraping detail page: https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html
+[2026-06-06 17:49:23] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html
+[2026-06-06 17:49:23] INFO [Scraper.scrape_books:139] - Successfully scraped book [12]: 'Shakespeare's Sonnets'
+[2026-06-06 17:49:23] INFO [Scraper.parse_book_detail:22] - Scraping detail page: https://books.toscrape.com/catalogue/set-me-free_988/index.html
+[2026-06-06 17:49:23] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/set-me-free_988/index.html
+[2026-06-06 17:49:24] INFO [Scraper.scrape_books:139] - Successfully scraped book [13]: 'Set Me Free'
+[2026-06-06 17:49:24] INFO [Scraper.parse_book_detail:22] - Scraping detail page: https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html
+[2026-06-06 17:49:24] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html
+[2026-06-06 17:49:24] INFO [Scraper.scrape_books:139] - Successfully scraped book [14]: 'Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)'
+[2026-06-06 17:49:24] INFO [Scraper.parse_book_detail:22] - Scraping detail page: https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html
+[2026-06-06 17:49:24] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html
+[2026-06-06 17:49:25] INFO [Scraper.scrape_books:139] - Successfully scraped book [15]: 'Rip it Up and Start Again'
+[2026-06-06 17:49:25] INFO [Scraper.parse_book_detail:22] - Scraping detail page: https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html
+[2026-06-06 17:49:25] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html
+[2026-06-06 17:49:25] INFO [Scraper.scrape_books:139] - Successfully scraped book [16]: 'Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991'
+[2026-06-06 17:49:25] INFO [Scraper.parse_book_detail:22] - Scraping detail page: https://books.toscrape.com/catalogue/olio_984/index.html
+[2026-06-06 17:49:25] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/olio_984/index.html
+[2026-06-06 17:49:26] INFO [Scraper.scrape_books:139] - Successfully scraped book [17]: 'Olio'
+[2026-06-06 17:49:26] INFO [Scraper.parse_book_detail:22] - Scraping detail page: https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html
+[2026-06-06 17:49:26] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html
+[2026-06-06 17:49:26] INFO [Scraper.scrape_books:139] - Successfully scraped book [18]: 'Mesaerion: The Best Science Fiction Stories 1800-1849'
+[2026-06-06 17:49:26] INFO [Scraper.parse_book_detail:22] - Scraping detail page: https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html
+[2026-06-06 17:49:26] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html
+[2026-06-06 17:49:27] INFO [Scraper.scrape_books:139] - Successfully scraped book [19]: 'Libertarianism for Beginners'
+[2026-06-06 17:49:27] INFO [Scraper.parse_book_detail:22] - Scraping detail page: https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html
+[2026-06-06 17:49:27] INFO [SafeScraperSession.get:89] - Fetching: https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html
+[2026-06-06 17:49:27] INFO [Scraper.scrape_books:139] - Successfully scraped book [20]: 'It's Only the Himalayas'
+[2026-06-06 17:49:27] INFO [Scraper.main:176] - Successfully scraped 20 books and saved raw data to C:\Users\mauri\Videos\data-engineering-workspace.code-workspace\jersey-scraper\fiverr-web-scraping-dashboard\data/raw/books_raw.csv
+[2026-06-06 17:49:39] INFO [Transformer.transform_data:68] - Loading raw data from: C:\Users\mauri\Videos\data-engineering-workspace.code-workspace\jersey-scraper\fiverr-web-scraping-dashboard\data/raw/books_raw.csv
+[2026-06-06 17:49:39] INFO [Transformer.transform_data:77] - Raw record count: 20
+[2026-06-06 17:49:39] INFO [Transformer.transform_data:96] - Deduplicated by SKU. Removed 0 duplicate rows.
+[2026-06-06 17:49:39] INFO [Transformer.transform_data:130] - Transformation complete. Transformed record count: 20
+[2026-06-06 17:49:39] INFO [Transformer.main:154] - Saved cleaned CSV to: C:\Users\mauri\Videos\data-engineering-workspace.code-workspace\jersey-scraper\fiverr-web-scraping-dashboard\data/processed/books_clean.csv
+[2026-06-06 17:49:39] INFO [Transformer.main:158] - Saved cleaned Excel to: C:\Users\mauri\Videos\data-engineering-workspace.code-workspace\jersey-scraper\fiverr-web-scraping-dashboard\data/processed/books_clean.xlsx
+[2026-06-06 17:53:34] INFO [Database.load_data_to_db:55] - Loading cleaned data from C:\Users\mauri\Videos\data-engineering-workspace.code-workspace\jersey-scraper\fiverr-web-scraping-dashboard\data/processed/books_clean.csv to DB C:\Users\mauri\Videos\data-engineering-workspace.code-workspace\jersey-scraper\fiverr-web-scraping-dashboard\data/database/books.db
+[2026-06-06 17:53:34] INFO [Database.init_database:22] - Initializing database at: C:\Users\mauri\Videos\data-engineering-workspace.code-workspace\jersey-scraper\fiverr-web-scraping-dashboard\data/database/books.db
+[2026-06-06 17:53:34] INFO [Database.init_database:48] - Database initialized successfully.
+[2026-06-06 17:53:34] INFO [Database.load_data_to_db:96] - Successfully loaded 20 records into the 'books' table.
+[2026-06-06 17:53:34] INFO [Database.load_data_to_db:101] - Verification: 'books' table now contains 30 total records.
+[2026-06-06 17:53:34] INFO [Database.query_db_summary:114] - Running database check on: C:\Users\mauri\Videos\data-engineering-workspace.code-workspace\jersey-scraper\fiverr-web-scraping-dashboard\data/database/books.db
+[2026-06-06 17:53:34] INFO [Database.query_db_summary:132] - 
+Top 5 Categories in Database by Volume:
+   category  book_count  avg_price  avg_rating
+    Default           5      26.03        3.00
+     Poetry           4      37.12        2.25
+      Music           3      43.20        3.33
+Young Adult           2      20.05        3.00
+    Romance           2      29.90        5.00
